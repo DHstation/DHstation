@@ -32,12 +32,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado por tecnologia 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHstation/DHstation/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHstation/DHstation/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DHstation/DHstation/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ⭐️ **Sinta-se à vontade para explorar meus repositórios e contribuir!**
