@@ -13,7 +13,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado por tecnologia 
 - **Ferramentas de Desenvolvimento:**
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![Windsurf](https://img.shields.io/badge/Windsurf-00ADEF?style=for-the-badge&logo=sailboat&logoColor=white)
 
 ## 📈 Minhas Estatísticas do GitHub
 
