@@ -21,9 +21,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado por tecnologia 
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DHstation&layout=compact&theme=radical)
 
-## 🌱 O que estou aprendendo atualmente?
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 
 ## 📫 Entre em Contato
 
