@@ -13,5 +13,3 @@ Trabalho principalmente com sistemas de gestão sob medida, coisas que integram 
 ### Contato
 
 [diogo.h.f.dantas@gmail.com](mailto:diogo.h.f.dantas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diogo-h-f-dantas)
-
-Pode chamar se quiser trocar ideia sobre algum projeto.
