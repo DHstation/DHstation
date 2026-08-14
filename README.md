@@ -2,7 +2,7 @@
 
 ## Diogo
 
-Dev full-stack, TypeScript no front e no back. Escrevo JavaScript há 5 anos.
+Dev full-stack, TypeScript no front e no back. Escrevo JavaScript há mais de 5 anos.
 
 Trabalho principalmente com sistemas de gestão sob medida, coisas que integram várias APIs e precisam funcionar todo dia pra alguém que depende delas.
 
