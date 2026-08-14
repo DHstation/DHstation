@@ -21,10 +21,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_snake=#7C3AED&color_dots=#ebedf0,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
-            dist/snake-dark.svg?color_snake=#A855F7&color_dots=#161b22,#3c2a5e,#6b3fa0,#9d5fe0,#c77dff
+            dist/snake.svg?color_snake=%237C3AED&color_dots=%23ebedf0,%23ddd6fe,%23c4b5fd,%23a78bfa,%237c3aed
+            dist/snake-dark.svg?color_snake=%23A855F7&color_dots=%23161b22,%233c2a5e,%236b3fa0,%239d5fe0,%23c77dff
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
       - name: Publicar na branch output
         uses: peaceiris/actions-gh-pages@v3
