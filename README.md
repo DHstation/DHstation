@@ -1,32 +1,36 @@
 ![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/DHstation)
-# Olá! 👋 Eu sou o DHstation
 
-Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado por tecnologia e por resolver problemas complexos com código. 🚀
+## Diogo Dantas
 
-## 🛠️ Minhas Habilidades
+Dev front-end, principalmente React. Escrevo JavaScript há [X anos] e continuo achando CSS mais difícil que lógica de backend.
 
-- **Linguagens de Programação:**
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- **Frameworks e Tecnologias:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- **Ferramentas de Desenvolvimento:**
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+No momento estou tocando o [PROJETO ATUAL] e me enrolando com [TECNOLOGIA QUE ESTÁ ESTUDANDO].
 
-## 📈 Minhas Estatísticas do GitHub
+**No dia a dia:** JavaScript · React · HTML · CSS · Git
+**Aprendendo agora:** [TECNOLOGIA]
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DHstation&show_icons=true&theme=radical)
+<br>
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DHstation&layout=compact&theme=radical)
+### Alguns projetos
 
+**[nome-do-projeto](https://github.com/DHstation/repo)**
+Uma ou duas linhas explicando o que ele faz e por que você construiu. Se resolveu um problema real seu, conta isso — é o que deixa interessante.
+`React` `Node` `PostgreSQL`
 
-## 📫 Entre em Contato
+**[nome-do-projeto](https://github.com/DHstation/repo)**
+Mesma ideia. O que era o problema, o que você fez.
+`Next.js` `Tailwind`
 
-- **Email:** diogo.h.f.dantas@gmail.com
-- **LinkedIn:** www.linkedin.com/in/diogo-h-f-dantas 
+**[nome-do-projeto](https://github.com/DHstation/repo)**
+Se for algo que você fez estudando, tudo bem dizer. Projeto de estudo bem descrito vale mais que projeto "profissional" sem contexto.
+`JavaScript`
 
----
+<br>
+
+### GitHub
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DHstation&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHstation&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHstation/DHstation/output/pacman-contribution-graph-dark.svg">
@@ -34,5 +38,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado por tecnologia 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DHstation/DHstation/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-⭐️ **Sinta-se à vontade para explorar meus repositórios e contribuir!**
+<br>
+
+### Contato
+
+[diogo.h.f.dantas@gmail.com](mailto:diogo.h.f.dantas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diogo-h-f-dantas)
