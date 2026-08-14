@@ -7,7 +7,6 @@ Dev full-stack, TypeScript no front e no back. Escrevo JavaScript há [X anos] e
 Trabalho principalmente com sistemas de gestão sob medida — coisas que integram várias APIs e precisam funcionar todo dia pra alguém que depende delas.
 
 **No dia a dia:** TypeScript · React · Next.js · Node · PostgreSQL · Prisma<br>
-**Aprendendo agora:** [TECNOLOGIA]
 
 <br>
 
