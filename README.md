@@ -12,6 +12,8 @@ Trabalho principalmente com sistemas de gestão sob medida, coisas que integram 
 
 [![Minhas skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,prisma,tailwind,git,docker,linux)](https://skillicons.dev)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&width=600&lines=Sistemas+de+gestao+sob+medida;TypeScript+no+front+e+no+back;WhatsApp%2C+CRM%2C+dashboards+e+integracoes)](https://github.com/DenverCoder1/readme-typing-svg)
+
 ### Contato
 
 [diogo.h.f.dantas@gmail.com](mailto:diogo.h.f.dantas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diogo-h-f-dantas)
