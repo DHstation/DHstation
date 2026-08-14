@@ -1,6 +1,6 @@
 ![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/DHstation)
 
-## Diogo Dantas
+## Diogo
 
 Dev full-stack, TypeScript no front e no back. Escrevo JavaScript há [X anos] e continuo achando CSS mais difícil que modelar banco.
 
