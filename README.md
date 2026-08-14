@@ -10,12 +10,6 @@ Trabalho principalmente com sistemas de gestão sob medida, coisas que integram 
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHstation/DHstation/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHstation/DHstation/output/snake.svg">
-  <img alt="Snake comendo minhas contribuicoes" src="https://raw.githubusercontent.com/DHstation/DHstation/output/snake.svg">
-</picture>
-
 ### Contato
 
 [diogo.h.f.dantas@gmail.com](mailto:diogo.h.f.dantas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diogo-h-f-dantas)
