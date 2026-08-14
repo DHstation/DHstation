@@ -4,7 +4,7 @@
 
 Dev full-stack, TypeScript no front e no back. Escrevo JavaScript há [X anos] e continuo achando CSS mais difícil que modelar banco.
 
-Trabalho principalmente com sistemas de gestão sob medida — coisas que integram várias APIs e precisam funcionar todo dia pra alguém que depende delas.
+Trabalho principalmente com sistemas de gestão sob medida, coisas que integram várias APIs e precisam funcionar todo dia pra alguém que depende delas.
 
 **No dia a dia:** TypeScript · React · Next.js · Node · PostgreSQL · Prisma<br>
 
