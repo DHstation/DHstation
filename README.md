@@ -10,6 +10,8 @@ Trabalho principalmente com sistemas de gestão sob medida, coisas que integram 
 
 <br>
 
+[![Minhas skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,prisma,tailwind,git,docker,linux)](https://skillicons.dev)
+
 ### Contato
 
 [diogo.h.f.dantas@gmail.com](mailto:diogo.h.f.dantas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diogo-h-f-dantas)
